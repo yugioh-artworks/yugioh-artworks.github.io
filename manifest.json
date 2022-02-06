@@ -1456,6 +1456,32 @@
         }
       }
     },
+    "10112": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/10112_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/10112_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "10113": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/10113_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/10113_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "10114": {
       "1": {
         "bestTCG": "/en/neuron_high/10114_1.png",
@@ -1567,6 +1593,17 @@
           "en": [
             {
               "path": "/en/neuron_high/10122_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/10122_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/10122_2.png",
               "source": "neuron_high"
             }
           ]
@@ -8873,6 +8910,19 @@
         }
       }
     },
+    "10685": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/10685_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/10685_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "10686": {
       "1": {
         "bestTCG": "/en/neuron_high/10686_1.png",
@@ -10713,6 +10763,19 @@
           "en": [
             {
               "path": "/en/neuron_high/10827_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "10828": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/10828_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/10828_1.png",
               "source": "neuron_high"
             }
           ]
@@ -14424,6 +14487,19 @@
         }
       }
     },
+    "11124": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/11124_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/11124_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "11125": {
       "1": {
         "bestTCG": "/en/neuron_high/11125_1.png",
@@ -16774,6 +16850,19 @@
           "en": [
             {
               "path": "/en/neuron_high/11305_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "11306": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/11306_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/11306_1.png",
               "source": "neuron_high"
             }
           ]
@@ -38325,6 +38414,19 @@
         }
       }
     },
+    "12996": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/12996_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/12996_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "12997": {
       "1": {
         "bestTCG": "/en/neuron_high/12997_1.png",
@@ -39960,6 +40062,19 @@
           "en": [
             {
               "path": "/en/neuron_high/13121_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "13122": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/13122_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/13122_1.png",
               "source": "neuron_high"
             }
           ]
@@ -42211,6 +42326,19 @@
         }
       }
     },
+    "13302": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/13302_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/13302_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "13303": {
       "1": {
         "bestTCG": "/en/neuron_high/13303_1.png",
@@ -44116,6 +44244,19 @@
           "en": [
             {
               "path": "/en/neuron_high/13451_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "13453": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/13453_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/13453_1.png",
               "source": "neuron_high"
             }
           ]
@@ -46517,6 +46658,17 @@
           "en": [
             {
               "path": "/en/neuron_high/13643_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/13643_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/13643_2.png",
               "source": "neuron_high"
             }
           ]
@@ -53941,6 +54093,45 @@
         }
       }
     },
+    "14235": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14235_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14235_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14236": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14236_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14236_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14237": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14237_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14237_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "14238": {
       "1": {
         "bestTCG": "/en/neuron_high/14238_1.png",
@@ -55211,6 +55402,19 @@
         }
       }
     },
+    "14335": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14335_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14335_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "14336": {
       "1": {
         "bestTCG": "/en/neuron_high/14336_1.png",
@@ -55562,6 +55766,19 @@
         }
       }
     },
+    "14364": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14364_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14364_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "14365": {
       "1": {
         "bestTCG": "/en/neuron_high/14365_1.png",
@@ -55803,6 +56020,32 @@
           "en": [
             {
               "path": "/en/neuron_high/14383_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14384": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14384_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14384_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14385": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14385_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14385_1.png",
               "source": "neuron_high"
             }
           ]
@@ -56479,6 +56722,19 @@
           "en": [
             {
               "path": "/en/neuron_high/14437_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14438": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14438_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14438_1.png",
               "source": "neuron_high"
             }
           ]
@@ -57660,6 +57916,19 @@
           "en": [
             {
               "path": "/en/neuron_high/14528_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14529": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14529_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14529_1.png",
               "source": "neuron_high"
             }
           ]
@@ -60329,6 +60598,32 @@
         }
       }
     },
+    "14737": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14737_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14737_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14738": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14738_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14738_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "14739": {
       "1": {
         "bestTCG": "/en/neuron_high/14739_1.png",
@@ -60901,6 +61196,45 @@
         }
       }
     },
+    "14783": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14783_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14783_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14784": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14784_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14784_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14785": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14785_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14785_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "14786": {
       "1": {
         "bestTCG": "/en/neuron_high/14786_1.png",
@@ -60960,6 +61294,19 @@
           "en": [
             {
               "path": "/en/neuron_high/14790_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14791": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14791_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14791_1.png",
               "source": "neuron_high"
             }
           ]
@@ -62316,6 +62663,17 @@
             }
           ]
         }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/14898_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14898_2.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
       }
     },
     "14899": {
@@ -62981,6 +63339,19 @@
         }
       }
     },
+    "14950": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14950_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14950_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "14952": {
       "1": {
         "bestTCG": "/en/neuron_high/14952_1.png",
@@ -63001,6 +63372,32 @@
           "en": [
             {
               "path": "/en/neuron_high/14953_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14954": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14954_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14954_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14955": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14955_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14955_1.png",
               "source": "neuron_high"
             }
           ]
@@ -63053,6 +63450,58 @@
           "en": [
             {
               "path": "/en/neuron_high/14959_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14960": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14960_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14960_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14961": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14961_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14961_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14962": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14962_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14962_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "14963": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/14963_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/14963_1.png",
               "source": "neuron_high"
             }
           ]
@@ -65406,6 +65855,17 @@
             }
           ]
         }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/15147_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15147_2.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
       }
     },
     "15148": {
@@ -67668,6 +68128,17 @@
             }
           ]
         }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/15471_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15471_2.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
       }
     },
     "15472": {
@@ -68851,6 +69322,17 @@
             }
           ]
         }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/15565_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15565_2.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
       }
     },
     "15566": {
@@ -68983,6 +69465,19 @@
         }
       }
     },
+    "15576": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15576_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15576_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "15577": {
       "1": {
         "bestTCG": "/en/neuron_high/15577_1.png",
@@ -69016,6 +69511,19 @@
           "en": [
             {
               "path": "/en/neuron_high/15579_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "15584": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15584_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15584_1.png",
               "source": "neuron_high"
             }
           ]
@@ -69601,6 +70109,19 @@
           "en": [
             {
               "path": "/en/neuron_high/15647_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "15689": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15689_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15689_1.png",
               "source": "neuron_high"
             }
           ]
@@ -70738,6 +71259,32 @@
         }
       }
     },
+    "15780": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15780_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15780_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "15827": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15827_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15827_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "15828": {
       "1": {
         "bestTCG": "/en/neuron_high/15828_1.png",
@@ -71388,6 +71935,149 @@
         }
       }
     },
+    "15879": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15879_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15879_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "15880": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15880_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15880_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "15881": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15881_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15881_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "15882": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15882_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15882_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "15883": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15883_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15883_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "15884": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15884_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15884_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "15885": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15885_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15885_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "15886": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15886_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15886_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "15887": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15887_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15887_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "15888": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15888_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15888_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "15889": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15889_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15889_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "15890": {
       "1": {
         "bestTCG": "/en/neuron_high/15890_1.png",
@@ -71395,6 +72085,19 @@
           "en": [
             {
               "path": "/en/neuron_high/15890_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "15891": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/15891_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15891_1.png",
               "source": "neuron_high"
             }
           ]
@@ -71503,6 +72206,17 @@
             }
           ]
         }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/15948_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15948_2.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
       }
     },
     "15949": {
@@ -71538,6 +72252,17 @@
           "en": [
             {
               "path": "/en/neuron_high/15951_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/15951_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/15951_2.png",
               "source": "neuron_high"
             }
           ]
@@ -72714,6 +73439,32 @@
         }
       }
     },
+    "16046": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16046_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16046_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16047": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16047_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16047_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "16048": {
       "1": {
         "bestTCG": "/en/neuron_high/16048_1.png",
@@ -73267,6 +74018,45 @@
           "en": [
             {
               "path": "/en/neuron_high/16122_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16184": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16184_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16184_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16188": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16188_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16188_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16189": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16189_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16189_1.png",
               "source": "neuron_high"
             }
           ]
@@ -74389,6 +75179,17 @@
             }
           ]
         }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/16276_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16276_2.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
       }
     },
     "16277": {
@@ -74441,6 +75242,17 @@
             }
           ]
         }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/16280_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16280_2.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
       }
     },
     "16281": {
@@ -74463,6 +75275,32 @@
           "en": [
             {
               "path": "/en/neuron_high/16282_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16283": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16283_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16283_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16284": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16284_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16284_1.png",
               "source": "neuron_high"
             }
           ]
@@ -74554,6 +75392,19 @@
           "en": [
             {
               "path": "/en/neuron_high/16301_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16306": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16306_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16306_1.png",
               "source": "neuron_high"
             }
           ]
@@ -75373,6 +76224,19 @@
           "en": [
             {
               "path": "/en/neuron_high/16438_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16466": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16466_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16466_1.png",
               "source": "neuron_high"
             }
           ]
@@ -76640,6 +77504,58 @@
         }
       }
     },
+    "16619": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16619_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16619_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16620": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16620_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16620_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16621": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16621_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16621_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16622": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16622_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16622_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "16623": {
       "1": {
         "bestTCG": "/en/neuron_high/16623_1.png",
@@ -76809,6 +77725,110 @@
         }
       }
     },
+    "16645": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16645_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16645_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16646": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16646_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16646_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16647": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16647_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16647_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16648": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16648_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16648_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16649": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16649_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16649_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16650": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16650_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16650_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16651": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16651_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16651_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16652": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16652_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16652_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "16653": {
       "1": {
         "bestTCG": "/en/neuron_high/16653_1.png",
@@ -76842,6 +77862,19 @@
           "en": [
             {
               "path": "/en/neuron_high/16655_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16723": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16723_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16723_1.png",
               "source": "neuron_high"
             }
           ]
@@ -77316,6 +78349,1072 @@
         }
       }
     },
+    "16801": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16801_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16801_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16802": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16802_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16802_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16806": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16806_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16806_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16807": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16807_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16807_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16808": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16808_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16808_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16809": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16809_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16809_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16810": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16810_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16810_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16811": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16811_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16811_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16812": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16812_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16812_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16813": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16813_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16813_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16814": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16814_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16814_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16815": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16815_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16815_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16816": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16816_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16816_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16817": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16817_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16817_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16818": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16818_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16818_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16819": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16819_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16819_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16820": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16820_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16820_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16821": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16821_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16821_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16822": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16822_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16822_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16823": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16823_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16823_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16824": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16824_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16824_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16825": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16825_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16825_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16826": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16826_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16826_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16827": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16827_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16827_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16828": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16828_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16828_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16829": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16829_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16829_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16830": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16830_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16830_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16831": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16831_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16831_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16832": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16832_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16832_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16833": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16833_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16833_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16834": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16834_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16834_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16835": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16835_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16835_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16836": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16836_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16836_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16837": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16837_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16837_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16838": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16838_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16838_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16839": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16839_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16839_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16840": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16840_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16840_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16841": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16841_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16841_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16842": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16842_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16842_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16843": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16843_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16843_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16844": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16844_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16844_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16845": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16845_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16845_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16846": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16846_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16846_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16847": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16847_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16847_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16848": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16848_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16848_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16849": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16849_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16849_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16850": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16850_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16850_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16851": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16851_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16851_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16852": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16852_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16852_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16853": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16853_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16853_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16854": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16854_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16854_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16855": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16855_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16855_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16856": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16856_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16856_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16857": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16857_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16857_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16858": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16858_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16858_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16859": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16859_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16859_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16860": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16860_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16860_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16861": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16861_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16861_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16862": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16862_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16862_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16863": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16863_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16863_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16864": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16864_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16864_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16865": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16865_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16865_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16866": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16866_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16866_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16867": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16867_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16867_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16868": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16868_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16868_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16869": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16869_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16869_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16870": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16870_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16870_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16871": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16871_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16871_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16872": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16872_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16872_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16873": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16873_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16873_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16874": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16874_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16874_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16875": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16875_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16875_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16876": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16876_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16876_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16877": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16877_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16877_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16878": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16878_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16878_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16879": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16879_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16879_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16880": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16880_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16880_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16881": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16881_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16881_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16882": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16882_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16882_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16883": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16883_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16883_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16884": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16884_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16884_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "16885": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16885_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16885_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "16936": {
       "1": {
         "bestTCG": "/en/neuron_high/16936_1.png",
@@ -77459,6 +79558,19 @@
         }
       }
     },
+    "16947": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/16947_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/16947_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "16952": {
       "1": {
         "bestTCG": "/en/neuron_high/16952_1.png",
@@ -77472,6 +79584,19 @@
         }
       }
     },
+    "17031": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17031_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17031_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "17032": {
       "1": {
         "bestTCG": "/en/neuron_high/17032_1.png",
@@ -77479,6 +79604,1670 @@
           "en": [
             {
               "path": "/en/neuron_high/17032_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17033": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17033_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17033_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17034": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17034_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17034_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17035": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17035_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17035_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17036": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17036_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17036_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17037": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17037_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17037_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17038": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17038_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17038_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17039": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17039_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17039_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17040": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17040_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17040_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17041": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17041_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17041_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17042": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17042_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17042_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17043": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17043_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17043_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17044": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17044_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17044_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17045": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17045_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17045_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17046": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17046_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17046_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17047": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17047_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17047_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17048": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17048_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17048_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17049": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17049_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17049_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17050": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17050_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17050_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17051": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17051_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17051_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17052": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17052_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17052_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17053": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17053_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17053_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17054": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17054_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17054_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17055": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17055_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17055_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17056": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17056_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17056_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17057": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17057_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17057_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17058": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17058_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17058_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17059": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17059_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17059_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17062": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17062_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17062_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17063": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17063_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17063_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17064": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17064_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17064_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17065": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17065_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17065_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17066": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17066_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17066_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17067": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17067_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17067_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17068": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17068_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17068_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17069": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17069_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17069_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17070": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17070_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17070_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17103": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17103_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17103_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17104": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17104_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17104_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17105": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17105_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17105_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17106": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17106_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17106_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17107": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17107_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17107_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17108": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17108_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17108_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17109": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17109_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17109_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17110": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17110_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17110_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17111": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17111_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17111_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17112": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17112_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17112_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17113": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17113_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17113_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17114": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17114_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17114_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17115": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17115_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17115_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17116": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17116_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17116_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17117": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17117_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17117_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17118": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17118_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17118_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17119": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17119_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17119_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17120": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17120_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17120_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17121": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17121_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17121_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17122": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17122_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17122_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17123": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17123_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17123_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17124": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17124_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17124_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17125": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17125_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17125_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17126": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17126_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17126_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17127": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17127_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17127_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17128": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17128_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17128_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17129": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17129_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17129_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17130": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17130_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17130_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17131": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17131_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17131_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17132": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17132_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17132_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17133": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17133_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17133_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17134": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17134_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17134_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17135": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17135_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17135_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17136": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17136_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17136_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17137": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17137_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17137_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17138": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17138_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17138_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17139": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17139_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17139_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17140": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17140_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17140_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17141": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17141_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17141_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17142": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17142_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17142_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17143": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17143_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17143_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17144": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17144_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17144_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17145": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17145_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17145_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17146": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17146_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17146_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17147": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17147_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17147_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17148": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17148_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17148_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17149": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17149_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17149_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17150": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17150_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17150_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17151": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17151_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17151_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17152": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17152_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17152_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17153": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17153_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17153_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17154": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17154_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17154_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17155": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17155_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17155_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17156": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17156_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17156_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17157": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17157_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17157_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17158": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17158_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17158_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17159": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17159_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17159_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17160": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17160_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17160_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17161": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17161_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17161_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17162": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17162_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17162_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17163": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17163_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17163_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17164": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17164_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17164_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17165": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17165_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17165_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17166": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17166_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17166_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17167": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17167_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17167_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17168": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17168_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17168_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17169": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17169_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17169_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17170": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17170_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17170_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17171": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17171_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17171_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17172": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17172_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17172_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17173": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17173_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17173_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17174": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17174_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17174_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17175": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17175_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17175_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17176": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17176_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17176_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17177": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17177_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17177_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17178": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17178_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17178_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17179": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17179_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17179_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17180": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17180_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17180_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17181": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17181_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17181_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17182": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17182_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17182_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17183": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17183_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17183_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17184": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17184_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17184_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17185": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17185_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17185_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17186": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17186_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17186_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17187": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17187_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17187_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17188": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17188_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17188_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17189": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17189_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17189_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17190": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17190_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17190_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17191": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17191_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17191_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17267": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17267_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17267_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17344": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17344_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17344_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "17345": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/17345_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/17345_1.png",
               "source": "neuron_high"
             }
           ]
@@ -77547,6 +81336,17 @@
           "en": [
             {
               "path": "/en/neuron_high/4007_6.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      },
+      "7": {
+        "bestOCG": "/ja/neuron_high/4007_7.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4007_7.png",
               "source": "neuron_high"
             }
           ]
@@ -77902,6 +81702,17 @@
           ]
         }
       },
+      "2": {
+        "bestOCG": "/ja/neuron_high/4028_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4028_2.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      },
       "3": {
         "bestTCG": "/en/neuron_high/4028_3.png",
         "idx": {
@@ -77951,6 +81762,19 @@
         }
       }
     },
+    "4031": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4031_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4031_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4032": {
       "1": {
         "bestTCG": "/en/neuron_high/4032_1.png",
@@ -77984,6 +81808,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4034_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4035": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4035_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4035_1.png",
               "source": "neuron_high"
             }
           ]
@@ -78139,6 +81976,17 @@
           "en": [
             {
               "path": "/en/neuron_high/4041_8.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      },
+      "9": {
+        "bestOCG": "/ja/neuron_high/4041_9.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4041_9.png",
               "source": "neuron_high"
             }
           ]
@@ -78321,6 +82169,19 @@
         }
       }
     },
+    "4053": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4053_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4053_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4054": {
       "1": {
         "bestTCG": "/en/neuron_high/4054_1.png",
@@ -78458,6 +82319,17 @@
           "en": [
             {
               "path": "/en/neuron_high/4064_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/4064_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4064_2.png",
               "source": "neuron_high"
             }
           ]
@@ -78640,6 +82512,19 @@
         }
       }
     },
+    "4076": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4076_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4076_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4077": {
       "1": {
         "bestTCG": "/en/neuron_high/4077_1.png",
@@ -78686,6 +82571,45 @@
           "en": [
             {
               "path": "/en/neuron_high/4080_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4081": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4081_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4081_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4082": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4082_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4082_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4083": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4083_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4083_1.png",
               "source": "neuron_high"
             }
           ]
@@ -78751,6 +82675,17 @@
           "en": [
             {
               "path": "/en/neuron_high/4088_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/4088_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4088_2.png",
               "source": "neuron_high"
             }
           ]
@@ -78853,6 +82788,19 @@
         }
       }
     },
+    "4093": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4093_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4093_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4094": {
       "1": {
         "bestTCG": "/en/neuron_high/4094_1.png",
@@ -78923,6 +82871,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4098_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4099": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4099_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4099_1.png",
               "source": "neuron_high"
             }
           ]
@@ -79046,6 +83007,19 @@
         }
       }
     },
+    "4109": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4109_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4109_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4110": {
       "1": {
         "bestTCG": "/en/neuron_high/4110_1.png",
@@ -79072,6 +83046,19 @@
         }
       }
     },
+    "4112": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4112_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4112_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4113": {
       "1": {
         "bestTCG": "/en/neuron_high/4113_1.png",
@@ -79079,6 +83066,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4113_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4114": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4114_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4114_1.png",
               "source": "neuron_high"
             }
           ]
@@ -79176,6 +83176,19 @@
         }
       }
     },
+    "4122": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4122_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4122_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4123": {
       "1": {
         "bestTCG": "/en/neuron_high/4123_1.png",
@@ -79183,6 +83196,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4123_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4124": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4124_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4124_1.png",
               "source": "neuron_high"
             }
           ]
@@ -79228,6 +83254,32 @@
         }
       }
     },
+    "4128": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4128_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4128_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4129": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4129_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4129_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4130": {
       "1": {
         "bestTCG": "/en/neuron_high/4130_1.png",
@@ -79254,6 +83306,19 @@
         }
       }
     },
+    "4132": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4132_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4132_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4133": {
       "1": {
         "bestTCG": "/en/neuron_high/4133_1.png",
@@ -79267,6 +83332,19 @@
         }
       }
     },
+    "4134": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4134_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4134_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4135": {
       "1": {
         "bestTCG": "/en/neuron_high/4135_1.png",
@@ -79274,6 +83352,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4135_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4136": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4136_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4136_1.png",
               "source": "neuron_high"
             }
           ]
@@ -79319,6 +83410,32 @@
         }
       }
     },
+    "4140": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4140_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4140_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4141": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4141_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4141_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4142": {
       "1": {
         "bestTCG": "/en/neuron_high/4142_1.png",
@@ -79332,6 +83449,32 @@
         }
       }
     },
+    "4143": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4143_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4143_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4144": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4144_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4144_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4145": {
       "1": {
         "bestTCG": "/en/neuron_high/4145_1.png",
@@ -79339,6 +83482,32 @@
           "en": [
             {
               "path": "/en/neuron_high/4145_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4146": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4146_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4146_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4147": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4147_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4147_1.png",
               "source": "neuron_high"
             }
           ]
@@ -79365,6 +83534,32 @@
           "en": [
             {
               "path": "/en/neuron_high/4149_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4150": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4150_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4150_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4151": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4151_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4151_1.png",
               "source": "neuron_high"
             }
           ]
@@ -79423,6 +83618,19 @@
         }
       }
     },
+    "4156": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4156_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4156_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4157": {
       "1": {
         "bestTCG": "/en/neuron_high/4157_1.png",
@@ -79430,6 +83638,32 @@
           "en": [
             {
               "path": "/en/neuron_high/4157_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4158": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4158_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4158_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4159": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4159_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4159_1.png",
               "source": "neuron_high"
             }
           ]
@@ -79553,6 +83787,32 @@
         }
       }
     },
+    "4169": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4169_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4169_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4170": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4170_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4170_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4171": {
       "1": {
         "bestTCG": "/en/neuron_high/4171_1.png",
@@ -79573,6 +83833,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4172_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4173": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4173_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4173_1.png",
               "source": "neuron_high"
             }
           ]
@@ -79657,6 +83930,19 @@
         }
       }
     },
+    "4180": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4180_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4180_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4181": {
       "1": {
         "bestTCG": "/en/neuron_high/4181_1.png",
@@ -79664,6 +83950,32 @@
           "en": [
             {
               "path": "/en/neuron_high/4181_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4182": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4182_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4182_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4183": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4183_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4183_1.png",
               "source": "neuron_high"
             }
           ]
@@ -79683,6 +83995,97 @@
         }
       }
     },
+    "4185": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4185_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4185_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4186": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4186_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4186_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4187": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4187_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4187_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4188": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4188_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4188_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4189": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4189_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4189_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4190": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4190_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4190_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4191": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4191_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4191_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4192": {
       "1": {
         "bestTCG": "/en/neuron_high/4192_1.png",
@@ -79696,6 +84099,32 @@
         }
       }
     },
+    "4193": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4193_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4193_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4194": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4194_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4194_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4195": {
       "1": {
         "bestTCG": "/en/neuron_high/4195_1.png",
@@ -79703,6 +84132,32 @@
           "en": [
             {
               "path": "/en/neuron_high/4195_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4196": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4196_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4196_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4197": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4197_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4197_1.png",
               "source": "neuron_high"
             }
           ]
@@ -79742,6 +84197,45 @@
           "en": [
             {
               "path": "/en/neuron_high/4200_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4201": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4201_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4201_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4202": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4202_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4202_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4203": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4203_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4203_1.png",
               "source": "neuron_high"
             }
           ]
@@ -79807,6 +84301,58 @@
           "en": [
             {
               "path": "/en/neuron_high/4208_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4209": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4209_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4209_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4210": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4210_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4210_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4211": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4211_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4211_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4212": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4212_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4212_1.png",
               "source": "neuron_high"
             }
           ]
@@ -79930,6 +84476,19 @@
         }
       }
     },
+    "4222": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4222_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4222_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4223": {
       "1": {
         "bestTCG": "/en/neuron_high/4223_1.png",
@@ -79950,6 +84509,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4224_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4225": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4225_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4225_1.png",
               "source": "neuron_high"
             }
           ]
@@ -79982,6 +84554,19 @@
         }
       }
     },
+    "4228": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4228_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4228_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4229": {
       "1": {
         "bestTCG": "/en/neuron_high/4229_1.png",
@@ -80008,6 +84593,19 @@
         }
       }
     },
+    "4231": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4231_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4231_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4232": {
       "1": {
         "bestTCG": "/en/neuron_high/4232_1.png",
@@ -80021,6 +84619,45 @@
         }
       }
     },
+    "4233": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4233_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4233_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4234": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4234_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4234_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4235": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4235_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4235_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4236": {
       "1": {
         "bestTCG": "/en/neuron_high/4236_1.png",
@@ -80028,6 +84665,32 @@
           "en": [
             {
               "path": "/en/neuron_high/4236_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4237": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4237_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4237_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4238": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4238_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4238_1.png",
               "source": "neuron_high"
             }
           ]
@@ -80099,6 +84762,45 @@
         }
       }
     },
+    "4244": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4244_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4244_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4245": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4245_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4245_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4246": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4246_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4246_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4247": {
       "1": {
         "bestTCG": "/en/neuron_high/4247_1.png",
@@ -80106,6 +84808,32 @@
           "en": [
             {
               "path": "/en/neuron_high/4247_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4248": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4248_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4248_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4249": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4249_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4249_1.png",
               "source": "neuron_high"
             }
           ]
@@ -80132,6 +84860,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4251_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4252": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4252_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4252_1.png",
               "source": "neuron_high"
             }
           ]
@@ -80177,6 +84918,19 @@
         }
       }
     },
+    "4256": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4256_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4256_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4257": {
       "1": {
         "bestTCG": "/en/neuron_high/4257_1.png",
@@ -80197,6 +84951,32 @@
           "en": [
             {
               "path": "/en/neuron_high/4258_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4259": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4259_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4259_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4260": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4260_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4260_1.png",
               "source": "neuron_high"
             }
           ]
@@ -80255,6 +85035,45 @@
         }
       }
     },
+    "4265": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4265_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4265_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4266": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4266_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4266_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4267": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4267_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4267_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4268": {
       "1": {
         "bestTCG": "/en/neuron_high/4268_1.png",
@@ -80262,6 +85081,32 @@
           "en": [
             {
               "path": "/en/neuron_high/4268_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4269": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4269_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4269_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4270": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4270_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4270_1.png",
               "source": "neuron_high"
             }
           ]
@@ -80346,6 +85191,19 @@
         }
       }
     },
+    "4277": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4277_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4277_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4278": {
       "1": {
         "bestTCG": "/en/neuron_high/4278_1.png",
@@ -80353,6 +85211,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4278_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4279": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4279_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4279_1.png",
               "source": "neuron_high"
             }
           ]
@@ -80392,6 +85263,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4282_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4283": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4283_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4283_1.png",
               "source": "neuron_high"
             }
           ]
@@ -80457,6 +85341,45 @@
           "en": [
             {
               "path": "/en/neuron_high/4288_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4289": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4289_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4289_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4290": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4290_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4290_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4291": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4291_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4291_1.png",
               "source": "neuron_high"
             }
           ]
@@ -80580,6 +85503,19 @@
         }
       }
     },
+    "4301": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4301_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4301_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4302": {
       "1": {
         "bestTCG": "/en/neuron_high/4302_1.png",
@@ -80600,6 +85536,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4303_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4304": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4304_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4304_1.png",
               "source": "neuron_high"
             }
           ]
@@ -81692,6 +86641,28 @@
             }
           ]
         }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/4386_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4386_2.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      },
+      "3": {
+        "bestOCG": "/ja/neuron_high/4386_3.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4386_3.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
       }
     },
     "4387": {
@@ -81963,6 +86934,19 @@
         }
       }
     },
+    "4406": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4406_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4406_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4407": {
       "1": {
         "bestTCG": "/en/neuron_high/4407_1.png",
@@ -81996,6 +86980,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4409_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4410": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4410_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4410_1.png",
               "source": "neuron_high"
             }
           ]
@@ -82080,6 +87077,19 @@
         }
       }
     },
+    "4417": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4417_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4417_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4418": {
       "1": {
         "bestTCG": "/en/neuron_high/4418_1.png",
@@ -82087,6 +87097,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4418_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4419": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4419_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4419_1.png",
               "source": "neuron_high"
             }
           ]
@@ -82145,6 +87168,19 @@
         }
       }
     },
+    "4424": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4424_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4424_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4425": {
       "1": {
         "bestTCG": "/en/neuron_high/4425_1.png",
@@ -82171,6 +87207,19 @@
         }
       }
     },
+    "4427": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4427_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4427_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4428": {
       "1": {
         "bestTCG": "/en/neuron_high/4428_1.png",
@@ -82178,6 +87227,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4428_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4429": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4429_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4429_1.png",
               "source": "neuron_high"
             }
           ]
@@ -82275,6 +87337,32 @@
         }
       }
     },
+    "4437": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4437_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4437_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4438": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4438_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4438_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4439": {
       "1": {
         "bestTCG": "/en/neuron_high/4439_1.png",
@@ -82282,6 +87370,45 @@
           "en": [
             {
               "path": "/en/neuron_high/4439_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4440": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4440_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4440_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4441": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4441_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4441_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4442": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4442_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4442_1.png",
               "source": "neuron_high"
             }
           ]
@@ -82340,6 +87467,19 @@
         }
       }
     },
+    "4447": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4447_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4447_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4448": {
       "1": {
         "bestTCG": "/en/neuron_high/4448_1.png",
@@ -82347,6 +87487,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4448_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4449": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4449_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4449_1.png",
               "source": "neuron_high"
             }
           ]
@@ -82379,6 +87532,19 @@
         }
       }
     },
+    "4452": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4452_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4452_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4453": {
       "1": {
         "bestTCG": "/en/neuron_high/4453_1.png",
@@ -82399,6 +87565,58 @@
           "en": [
             {
               "path": "/en/neuron_high/4454_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4455": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4455_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4455_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4456": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4456_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4456_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4457": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4457_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4457_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4458": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4458_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4458_1.png",
               "source": "neuron_high"
             }
           ]
@@ -82431,6 +87649,45 @@
         }
       }
     },
+    "4461": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4461_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4461_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4462": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4462_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4462_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4463": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4463_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4463_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4464": {
       "1": {
         "bestTCG": "/en/neuron_high/4464_1.png",
@@ -82451,6 +87708,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4465_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4466": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4466_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4466_1.png",
               "source": "neuron_high"
             }
           ]
@@ -82490,6 +87760,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4469_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4470": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4470_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4470_1.png",
               "source": "neuron_high"
             }
           ]
@@ -82587,6 +87870,19 @@
         }
       }
     },
+    "4478": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4478_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4478_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4479": {
       "1": {
         "bestTCG": "/en/neuron_high/4479_1.png",
@@ -82620,6 +87916,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4481_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4482": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4482_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4482_1.png",
               "source": "neuron_high"
             }
           ]
@@ -82704,6 +88013,19 @@
         }
       }
     },
+    "4489": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4489_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4489_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4490": {
       "1": {
         "bestTCG": "/en/neuron_high/4490_1.png",
@@ -82711,6 +88033,32 @@
           "en": [
             {
               "path": "/en/neuron_high/4490_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4491": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4491_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4491_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4492": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4492_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4492_1.png",
               "source": "neuron_high"
             }
           ]
@@ -82737,6 +88085,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4494_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4495": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4495_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4495_1.png",
               "source": "neuron_high"
             }
           ]
@@ -82795,6 +88156,19 @@
         }
       }
     },
+    "4500": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4500_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4500_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4501": {
       "1": {
         "bestTCG": "/en/neuron_high/4501_1.png",
@@ -82847,6 +88221,19 @@
         }
       }
     },
+    "4505": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4505_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4505_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4506": {
       "1": {
         "bestTCG": "/en/neuron_high/4506_1.png",
@@ -82880,6 +88267,32 @@
           "en": [
             {
               "path": "/en/neuron_high/4508_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4509": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4509_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4509_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4510": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4510_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4510_1.png",
               "source": "neuron_high"
             }
           ]
@@ -82945,6 +88358,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4515_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4516": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4516_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4516_1.png",
               "source": "neuron_high"
             }
           ]
@@ -83042,6 +88468,19 @@
         }
       }
     },
+    "4524": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4524_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4524_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4525": {
       "1": {
         "bestTCG": "/en/neuron_high/4525_1.png",
@@ -83081,6 +88520,19 @@
         }
       }
     },
+    "4528": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4528_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4528_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4529": {
       "1": {
         "bestTCG": "/en/neuron_high/4529_1.png",
@@ -83101,6 +88553,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4530_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4531": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4531_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4531_1.png",
               "source": "neuron_high"
             }
           ]
@@ -83133,6 +88598,19 @@
         }
       }
     },
+    "4534": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4534_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4534_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4535": {
       "1": {
         "bestTCG": "/en/neuron_high/4535_1.png",
@@ -83140,6 +88618,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4535_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4536": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4536_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4536_1.png",
               "source": "neuron_high"
             }
           ]
@@ -83170,6 +88661,17 @@
             }
           ]
         }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/4538_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4538_2.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
       }
     },
     "4539": {
@@ -83192,6 +88694,32 @@
           "en": [
             {
               "path": "/en/neuron_high/4540_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4541": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4541_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4541_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4542": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4542_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4542_1.png",
               "source": "neuron_high"
             }
           ]
@@ -83341,6 +88869,19 @@
         }
       }
     },
+    "4554": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4554_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4554_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4555": {
       "1": {
         "bestTCG": "/en/neuron_high/4555_1.png",
@@ -83432,6 +88973,19 @@
         }
       }
     },
+    "4562": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4562_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4562_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4563": {
       "1": {
         "bestTCG": "/en/neuron_high/4563_1.png",
@@ -83439,6 +88993,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4563_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4564": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4564_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4564_1.png",
               "source": "neuron_high"
             }
           ]
@@ -83536,6 +89103,19 @@
         }
       }
     },
+    "4572": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4572_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4572_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4573": {
       "1": {
         "bestTCG": "/en/neuron_high/4573_1.png",
@@ -83582,6 +89162,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4576_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4577": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4577_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4577_1.png",
               "source": "neuron_high"
             }
           ]
@@ -83640,6 +89233,58 @@
         }
       }
     },
+    "4582": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4582_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4582_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4583": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4583_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4583_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4584": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4584_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4584_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4585": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4585_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4585_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4586": {
       "1": {
         "bestTCG": "/en/neuron_high/4586_1.png",
@@ -83692,6 +89337,19 @@
         }
       }
     },
+    "4590": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4590_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4590_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4591": {
       "1": {
         "bestTCG": "/en/neuron_high/4591_1.png",
@@ -83718,6 +89376,58 @@
         }
       }
     },
+    "4593": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4593_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4593_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4594": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4594_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4594_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4595": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4595_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4595_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4596": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4596_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4596_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4597": {
       "1": {
         "bestTCG": "/en/neuron_high/4597_1.png",
@@ -83725,6 +89435,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4597_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4598": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4598_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4598_1.png",
               "source": "neuron_high"
             }
           ]
@@ -83751,6 +89474,32 @@
           "en": [
             {
               "path": "/en/neuron_high/4600_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4601": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4601_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4601_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4602": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4602_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4602_1.png",
               "source": "neuron_high"
             }
           ]
@@ -83803,6 +89552,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4606_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4607": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4607_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4607_1.png",
               "source": "neuron_high"
             }
           ]
@@ -84030,6 +89792,19 @@
         }
       }
     },
+    "4625": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4625_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4625_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4626": {
       "1": {
         "bestTCG": "/en/neuron_high/4626_1.png",
@@ -84056,6 +89831,32 @@
         }
       }
     },
+    "4628": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4628_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4628_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4629": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4629_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4629_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4630": {
       "1": {
         "bestTCG": "/en/neuron_high/4630_1.png",
@@ -84063,6 +89864,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4630_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4631": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4631_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4631_1.png",
               "source": "neuron_high"
             }
           ]
@@ -84108,6 +89922,19 @@
         }
       }
     },
+    "4635": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4635_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4635_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4636": {
       "1": {
         "bestTCG": "/en/neuron_high/4636_1.png",
@@ -84141,6 +89968,32 @@
           "en": [
             {
               "path": "/en/neuron_high/4638_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4639": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4639_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4639_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4640": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4640_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4640_1.png",
               "source": "neuron_high"
             }
           ]
@@ -84212,6 +90065,19 @@
         }
       }
     },
+    "4646": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4646_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4646_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4647": {
       "1": {
         "bestTCG": "/en/neuron_high/4647_1.png",
@@ -84264,6 +90130,19 @@
         }
       }
     },
+    "4651": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4651_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4651_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "4652": {
       "1": {
         "bestTCG": "/en/neuron_high/4652_1.png",
@@ -84284,6 +90163,19 @@
           "en": [
             {
               "path": "/en/neuron_high/4653_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "4654": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/4654_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4654_1.png",
               "source": "neuron_high"
             }
           ]
@@ -85855,6 +91747,17 @@
           "en": [
             {
               "path": "/en/neuron_high/4786_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/4786_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/4786_2.png",
               "source": "neuron_high"
             }
           ]
@@ -89320,6 +95223,19 @@
           "en": [
             {
               "path": "/en/neuron_high/5079_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "5083": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/5083_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/5083_1.png",
               "source": "neuron_high"
             }
           ]
@@ -94482,6 +100398,17 @@
             }
           ]
         }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/5553_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/5553_2.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
       }
     },
     "5555": {
@@ -94526,6 +100453,17 @@
           "en": [
             {
               "path": "/en/neuron_high/5556_3.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      },
+      "4": {
+        "bestOCG": "/ja/neuron_high/5556_4.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/5556_4.png",
               "source": "neuron_high"
             }
           ]
@@ -95284,6 +101222,17 @@
             }
           ]
         }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/5625_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/5625_2.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
       }
     },
     "5626": {
@@ -95293,6 +101242,17 @@
           "en": [
             {
               "path": "/en/neuron_high/5626_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      },
+      "2": {
+        "bestOCG": "/ja/neuron_high/5626_2.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/5626_2.png",
               "source": "neuron_high"
             }
           ]
@@ -107916,6 +113876,71 @@
         }
       }
     },
+    "6713": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/6713_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/6713_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "6715": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/6715_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/6715_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "6716": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/6716_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/6716_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "6717": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/6717_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/6717_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "6719": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/6719_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/6719_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "6720": {
       "1": {
         "bestTCG": "/en/neuron_high/6720_1.png",
@@ -108662,6 +114687,19 @@
           "en": [
             {
               "path": "/en/neuron_high/6785_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "6788": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/6788_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/6788_1.png",
               "source": "neuron_high"
             }
           ]
@@ -111411,6 +117449,19 @@
         }
       }
     },
+    "7055": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/7055_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/7055_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "7056": {
       "1": {
         "bestTCG": "/en/neuron_high/7056_1.png",
@@ -113572,6 +119623,19 @@
           "en": [
             {
               "path": "/en/neuron_high/7236_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "7237": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/7237_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/7237_1.png",
               "source": "neuron_high"
             }
           ]
@@ -115931,6 +121995,19 @@
         }
       }
     },
+    "7440": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/7440_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/7440_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "7441": {
       "1": {
         "bestTCG": "/en/neuron_high/7441_1.png",
@@ -116672,6 +122749,19 @@
         }
       }
     },
+    "7505": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/7505_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/7505_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "7508": {
       "1": {
         "bestTCG": "/en/neuron_high/7508_1.png",
@@ -116679,6 +122769,32 @@
           "en": [
             {
               "path": "/en/neuron_high/7508_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "7510": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/7510_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/7510_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "7511": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/7511_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/7511_1.png",
               "source": "neuron_high"
             }
           ]
@@ -118445,6 +124561,19 @@
           "en": [
             {
               "path": "/en/neuron_high/7653_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "7654": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/7654_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/7654_1.png",
               "source": "neuron_high"
             }
           ]
@@ -131629,6 +137758,19 @@
         }
       }
     },
+    "8772": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/8772_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/8772_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "8775": {
       "1": {
         "bestTCG": "/en/neuron_high/8775_1.png",
@@ -131636,6 +137778,19 @@
           "en": [
             {
               "path": "/en/neuron_high/8775_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "8776": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/8776_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/8776_1.png",
               "source": "neuron_high"
             }
           ]
@@ -132825,6 +138980,32 @@
         }
       }
     },
+    "8868": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/8868_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/8868_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "8869": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/8869_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/8869_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
     "8870": {
       "1": {
         "bestTCG": "/en/neuron_high/8870_1.png",
@@ -133287,6 +139468,19 @@
           "en": [
             {
               "path": "/en/neuron_high/8922_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "8931": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/8931_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/8931_1.png",
               "source": "neuron_high"
             }
           ]
@@ -134366,6 +140560,19 @@
           "en": [
             {
               "path": "/en/neuron_high/9016_1.png",
+              "source": "neuron_high"
+            }
+          ]
+        }
+      }
+    },
+    "9017": {
+      "1": {
+        "bestOCG": "/ja/neuron_high/9017_1.png",
+        "idx": {
+          "ja": [
+            {
+              "path": "/ja/neuron_high/9017_1.png",
               "source": "neuron_high"
             }
           ]
