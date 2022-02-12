@@ -1,0 +1,65 @@
+<!doctype HTML>
+<html><head>
+    <title>Yu-Gi-Oh! Artwork Repository</title>
+    <link rel="icon" href=".demo-assets/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href=".demo-assets/highlight.js/highlight.min.css">
+    <link rel="stylesheet" href=".demo-assets/demo.css">
+    <meta name="color-scheme" content="dark">
+    <meta charset="utf-8">
+    <script defer src=".demo-assets/highlight.js/highlight.min.js"></script>
+    <script defer src=".demo-assets/demo.js"></script>
+</head><body class="noscript">
+    <script type="text/javascript">document.body.classList.remove('noscript')</script>
+    <header>
+        <span id="header1">Welcome to the</span>
+        <span id="header2">Yu-Gi-Oh! Artwork Repository</span>
+        <span id="header3">This is a fan project by <a href="https://discordapp.com/users/114706168005394435/" rel="author external nofollow" target="_blank">@gallantron#1059</a>. It is not affiliated with nor endorsed by KONAMI, or any other rights-holder to the Yu-Gi-Oh! TCG or OCG.</span>
+    </header>
+    <section id="controls">
+        <span id="intro1">Try it out using:</span>
+        <div id="intro2">
+            <button data-card-id="4007">Blue-Eyes White Dragon</button>
+            <button data-card-id="6653">Elemental HERO Neos</button>
+            <button data-card-id="7734">Stardust Dragon</button>
+            <button data-card-id="9575">Number 39: Utopia</button>
+        </div>
+        <span id="intro-noscript">Please enable JavaScript to use the interactive demonstrator&hellip;</span>
+        <span id="intro3">Or would you rather go straight <a href="https://github.com/yugioh-artworks/yugioh-artworks.github.io#readme" rel="help" target="_blank">to the documentation</a>?</span>
+    </section>
+    <div id="message">Loading manifest.json, please wait&hellip;</div>
+    <section id="controlled">
+        <section class="column">
+            <code id="code-block" class="language-javascript"></code>
+            <div id="subcontrols">
+                <div class="labeled-select hljs">
+                    <label for="select-artid">Artwork:</label>
+                    <select id="select-artid">
+                        <option value="__null">Any artwork</option>
+                    </select>
+                </div>
+                <div class="labeled-select hljs">
+                    <label for="select-locale">Language:</label>
+                    <select id="select-locale">
+                        <option value="__null" selected>Any (best artwork)</option>
+                        <option value="tcg">Any (prefer TCG)</option>
+                        <option value="ocg">Any (prefer OCG)</option>
+                        <option value="en"><img src=".demo-assets/locale-flag/en.png"> English</option>
+                        <option value="ja"><img src=".demo-assets/locale-flag/ja.png"> Japanese</option>
+                        <option value="de"><img src=".demo-assets/locale-flag/de.png"> German</option>
+                        <option value="fr"><img src=".demo-assets/locale-flag/fr.png"> French</option>
+                        <option value="it"><img src=".demo-assets/locale-flag/it.png"> Italian</option>
+                        <option value="es"><img src=".demo-assets/locale-flag/es.png"> Spanish</option>
+                        <option value="pt"><img src=".demo-assets/locale-flag/pt.png"> Portuguese</option>
+                        <option value="ko"><img src=".demo-assets/locale-flag/ko.png"> Korean</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+        <section class="column">
+            <img id="artwork">
+        </section>
+        <section class="column">
+            <code id="json-block" class="language-javascript"></code>
+        </section>
+    </section>
+</body></html>
