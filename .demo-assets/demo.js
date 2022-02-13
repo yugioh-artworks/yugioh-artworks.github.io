@@ -35,7 +35,7 @@ const redrawControlled = (() =>
     }
     
     let artworkData = null;
-    let code = ("const manifest = await (await fetch('https://artworks.db.ygorganization.com/manifest.json')).json();\nconst cardData = manifest.cards["+selectedCardId+"]; // "+selectedCardName+"\nconsole.log(cardData);\n\n");
+    let code = ("const manifest = await (await fetch('https://artworks.ygorganization.com/manifest.json')).json();\nconst cardData = manifest.cards["+selectedCardId+"]; // "+selectedCardName+"\nconsole.log(cardData);\n\n");
     const cardData = manifest.cards[selectedCardId];
     if (selectedArtId !== null)
     {
@@ -71,7 +71,7 @@ const redrawControlled = (() =>
         artworkPath = (localeData ? localeData[0].path : artworkData.bestArt);
     }
     
-    code += "const artworkURL = new URL(artworkPath, 'https://artworks.db.ygorganization.com/');\ndocument.getElementById('artwork').src = artworkURL.href;";
+    code += "const artworkURL = new URL(artworkPath, 'https://artworks.ygorganization.com/');\ndocument.getElementById('artwork').src = artworkURL.href;";
     document.getElementById('artwork').src = artworkPath;
     
     const codeElm = document.getElementById('code-block');
