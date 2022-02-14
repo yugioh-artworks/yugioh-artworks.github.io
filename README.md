@@ -37,7 +37,7 @@ _(Do **not** rely on any details of our file paths to try and guess them on your
 
 The manifest's `.cards` entry is an object, which is indexed by cards' database ID. This is the same ID used by [the YGOrganization Database](https://db.ygorganization.com/) and KONAMI's own [Card Database](https://www.db.yugioh-card.com/). As an example, _Dark Magician_'s database ID is `4041`.
 
-Each entry in `.cards` is another object, indexed by the artwork IDs available for the respective card. Artwork IDs are assigned by KONAMI. All cards currently use numeric values, but this is an implementation detail and should not be relied upon. To give an example, data for Dark Magician's first artwork can currently be accessed as `manifestData['4041']['1']`.
+Each entry in `.cards` is another object, indexed by the artwork IDs available for the respective card. Artwork IDs are assigned by KONAMI. All cards currently use numeric values, but this is an implementation detail and should not be relied upon. To give an example, data for Dark Magician's first artwork can currently be accessed as `manifestData.cards['4041']['1']`.
 
 Once you've found the data for the artwork you are looking for, you have three images immediately available to you, as members of the artwork data object. These are:
 
@@ -45,9 +45,9 @@ Once you've found the data for the artwork you are looking for, you have three i
 * `.bestOCG`, which is the highest-resolution version of the artwork available in the Official Card Game
 * `.bestArt`, which is the highest-resolution version of the artwork available in either of the above
 
-In the vast majority of situations, `.bestArt` is what you want, as it will always be available. Even if you choose one of the other two, keep in mind that these values may not always be available, as some artworks only exist in one of the two CGs. How you handle this is up to you. To give an example, `manifestData['4041']['1'].bestArt` gives the path to the highest resolution version of Dark Magician's first artwork that's available.
+In the vast majority of situations, `.bestArt` is what you want, as it will always be available. Even if you choose one of the other two, keep in mind that these values may not always be available, as some artworks only exist in one of the two CGs. How you handle this is up to you. To give an example, `manifestData.cards['4041']['1'].bestArt` is the highest resolution version of Dark Magician's first artwork that's available.
 
-Sometimes, you want finer-grained control, want a particular language's artwork, or want to iterate over all the files available. For these applications, the artwork data object also contains the `.idx` member, which is further sub-indexed by the two-letter locale code of each locale the artwork is available for. This gets you an array of `{ path, source }` objects listing all images for the specified card artwork and locale. This array is sorted by descending resolution. For example `manifestData['4041']['1'].idx.de[0].path` is the highest-resolution German version of Dark Magician's first artwork that's available. Keep in mind that the `.de` key may not exist for every artwork.
+Sometimes, you want finer-grained control, want a particular language's artwork, or want to iterate over all the files available. For these applications, the artwork data object also contains the `.idx` member, which is further sub-indexed by the two-letter locale code of each locale the artwork is available for. This gets you an array of `{ path, source }` objects listing all images for the specified card artwork and locale. This array is sorted by descending resolution. For example `manifestData.cards['4041']['1'].idx.de[0].path` is the highest-resolution German version of Dark Magician's first artwork that's available. Keep in mind that the `.de` key may not exist for every artwork.
 
 _(The `source` value is an internal identifier, and is currently considered to be an implementation detail. Do not rely on its value at this time.)_
 
