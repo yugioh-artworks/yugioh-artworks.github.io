@@ -24,7 +24,7 @@ This option is best for web applications, as well as applications that only need
 
 You will want to clone this repository from GitHub. Please keep full clones of the whole thing to a minimum. Keep your local copy of the repository up to date by pulling from the remote repository, which will only download the necessary changes.
 
-If you are distributing an application that uses this approach, please bundle a reasonable-recent clone with it, and base your update logic on that. Do _not_ have each user clone the entire repo on first run.
+If you are distributing an application that uses this approach, please bundle a reasonably-recent clone with it, and base your update logic on that. Do _not_ have each user clone the entire repo on first run.
 
 This option is best if you actually need all the artworks, since Git lets you keep your local copy up-to-date efficiently. As an example, you'd want this if you're looking to compile image fingerprints of every card in the game for your card recognition software.
 
